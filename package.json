@@ -1,0 +1,10 @@
+{
+  "name": "dzhuran-office-furniture",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static corporate portal for an office furniture company.",
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "test": "node --check script.js"
+  }
+}
